@@ -8,11 +8,11 @@
 
 
 # Completion task
-# The input shape is top 5% points(102 points) in the dataset(2048 points each shape)
+The input shape is top 5% points(102 points) in the dataset(2048 points each shape)
 
-# input shape
+## input shape
 ![fixed_points_1](https://github.com/user-attachments/assets/54ef606f-58b3-4511-ae9b-3597ff0c421b)
 
 
-# Completed shape
+## Completed shape
 ![generation_points_5](https://github.com/user-attachments/assets/d8d17604-054d-4126-8a3b-7e864110f134)
